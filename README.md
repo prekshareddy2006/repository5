@@ -2,3 +2,4 @@
 remote repository
 fetch
 rebase
+checkout
